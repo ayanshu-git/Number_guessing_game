@@ -12,5 +12,5 @@ A simple Python number guessing game.
 ## Run
 
 ```bash
-python main.py
+python number guessing.py
 ```
